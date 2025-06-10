@@ -13,3 +13,10 @@ More projects inspiration/reference for localhost by Vichagorn Lupponglung
 - [video here](https://www.youtube.com/watch?v=GvShB0FiJ0E&ab_channel=VichagornLupponglung) 
 
 - [github repo](https://github.com/rimand/Socket-Server-Online-vs-Local/tree/main)
+
+
+## Installation
+ - git clone or download the repository
+ - npm install (server-local folder)
+ - node main.js (server-local folder)
+ - start live server : index.html (VS Code)

@@ -1,5 +1,7 @@
 # websocketsTouchdesigner
 
+![about websockets](https://github.com/Koproduktionslabor/websocketsTouchdesigner/blob/main/websocketsDocumentation.png?raw=true)
+
 ## Touchdesigner + Websockets for Stream Diffusion
 
 Websockets Tutorial by Torin Blankensmith
